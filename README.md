@@ -1,4 +1,4 @@
 # DrawDragon
 ドラゴン曲線を描く
 
-https://github.com/kenjinote/DrawDragon/edit/master/README.md
+![画面キャプチャー](https://github.com/kenjinote/DrawDragon/wiki/preview.png "画面キャプチャー")
